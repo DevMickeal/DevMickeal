@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @DevMickeal
-- 👀 I’m interested in software development,DevOps, Cybersecurity and cloud computing...
-- 🌱 I dine with azure and aws...
-- 💞️ I’m looking to collaborate on azure AI...
-- 📫 How to reach me ooluwaseunmicheal@gmail.com...
+# Oluwaseun Oluwatomisin
 
-<!---
-DevMickeal/DevMickeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+DevOps and Cloud Solutions Architect in Lagos, Nigeria. I build and run platforms for banks, fintechs and other regulated organisations, with 9 years across Azure, AWS, GCP and Kubernetes.
+
+**What I work on:** platform engineering, SRE, GitOps, policy-driven infrastructure as code, observability with OpenTelemetry and Grafana, and agentic AI tooling for operations.
+
+Most of my work is in private client repositories, so what you see here is only a small part of it.
+
+**Reach me:** ooluwaseunmicheal@gmail.com · [LinkedIn](https://www.linkedin.com/in/oluwaseun-oluwatomisin-micheal) · [Website](https://zealous-ground-017162703.6.azurestaticapps.net)
